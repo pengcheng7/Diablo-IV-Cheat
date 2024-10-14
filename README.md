@@ -1,6 +1,6 @@
 1 Avoid running the bot continuously for 24 hours, as this may lead to an AI ban. It is recommended to take breaks of 12-16 hours after running for 12-8 hours
 
-2 Regcode purchase URL： https://www.cnnc.com/shop/a/57.html
+2 Get free regcode： https://www.cnnc.com/shop/a/57.html
 
 3 For usage issues, please check the URL： https://faq.abbcc.xyz/d4_en/ ,
    Video Usage Tutorial URL： https://www.youtube.com/watch?v=cbBFUbUKKAg
